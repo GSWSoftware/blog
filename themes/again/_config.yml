@@ -1,0 +1,35 @@
+# basic
+title: GSW Software
+subtitle: Engineering blog
+favicon: favicon.ico
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+avatar: https://pbs.twimg.com/profile_images/1123127949/Logo_gsw_circulo_400x400.png
+#banner_small: 
+#banner_large: 
+
+# disqus
+disqus_shortname: gswsoftware
+
+# social
+social:
+  github: https://github.com/gswsoftware
+  twitter: https://twitter.com/gswsoftware
+
+# nav #
+nav:
+  home: .
+  archive: archives
+  # about: about
+  rss: atom.xml
+
+# heox-renderre-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+
+google_analytics: # Put tracking ID here
